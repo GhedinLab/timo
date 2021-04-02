@@ -18,10 +18,10 @@ to the output files from timo.
 
 #### Requirements
 
-python3
-numpy
-pysam
-SciPy
+python3  
+numpy  
+pysam  
+SciPy  
 
 ## Running timo:
 
