@@ -19,6 +19,9 @@ to the output files from timo.
 #### Requirements
 
 python3
+numpy
+pysam
+SciPy
 
 ## Running timo:
 
@@ -40,7 +43,7 @@ The run_IndexVariants.sh script provides run information and calls the index_var
 
 *USER:* email address for running information
 
-*array:* 0-#, number of samples to run the pipeline on. Used for submitting array jobs for faster output.
+*array:* 0-#, zero based number of samples to run the pipeline on. Used for submitting array jobs for faster output.
 
 #### **index_variants.sh**
 
@@ -58,7 +61,7 @@ The *timo* parameters are as follows:
 
 --seqment (-s): Input single segment. Only needed in multi-segment genomes 
 
---qual (-q): Phred quality cutoff, default is 20.
+--qual (-q): Phred quality cutoff, default is 25.
 
 --cutoff (-c): Minor variant frequency cutoff for called variants, default is 0.01 (1%). We recommend passing in a value of 0.001 and filtering for higher frequency variants from the output.
 
