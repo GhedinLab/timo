@@ -505,7 +505,7 @@ if __name__ == '__main__': #this will allow this module to be imported from anot
                             SEQLIST.append(x)
                     else:
                         #Added new character (N) if there is NO coverage. 8/30/2017
-                        x = seqObject(SAMPLENAME,SEGMENT,ntpos,'N','0.00','','','',
+                        x = seqObject(SAMPLENAME,SEGMENT,ntpos+1,'N','0.00','','','',
                             '0','0','0','0','0','0')
                         SEQLIST.append(x)
 
