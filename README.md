@@ -169,11 +169,11 @@ A feature file for SARS-CoV-2 is provided.
 
 #### Contributors:
 
-Tim Song
-Kate Johnson
-David Chen
-Chang Wang
-Allison Roder
+Tim Song  
+Kate Johnson   
+David Chen  
+Chang Wang  
+Allison Roder  
 
 
 ```
