@@ -164,7 +164,16 @@ A feature file for SARS-CoV-2 is provided.
 --var ./FILES/fullvarlist  
 --strain COV19  
 --features ./sars-cov-2-features.4.csv  
---save_dir ./FILES/aasnplist/  
+--save_dir ./FILES/aasnplist/. 
+
+
+#### Contributors:
+
+Tim Song
+Kate Johnson
+David Chen
+Chang Wang
+Allison Roder
 
 
 ```
