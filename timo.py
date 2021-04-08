@@ -1,4 +1,4 @@
-## Written by: Timothy Song
+## Written by: Timothy Song updated to Python3 by David Chen
 from __future__ import print_function
 
 import sys,os,glob
