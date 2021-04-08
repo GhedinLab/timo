@@ -1,3 +1,4 @@
+## Written by: Kate Johnson, kej310@nyu.edu
 """
 Adding amino acid and gene information
 
