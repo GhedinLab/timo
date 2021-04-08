@@ -1,3 +1,4 @@
+## Written by: Kate Johnson, kej310@nyu.edu
 """
 This code does three different things:
 1. Checks the snplist file to make sure all positions are present, and not duplicated
